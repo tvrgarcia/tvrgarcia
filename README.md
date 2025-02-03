@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tvrgarcia
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning business intelligence
-- 💞️ I’m looking to collaborate on data analytics projects
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data science and analytics projects
 - 📫 How to reach me tyronevictorgarcia@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a licensed chemist :D
